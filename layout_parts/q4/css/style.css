@@ -21,7 +21,7 @@
 }
 
 /* TOP */
-.blue {
+.blue { /*固定*/
   width: 100px;
   background: #b6d8ed;
 }
@@ -30,7 +30,7 @@
   background: #e0abd9;
 }
 
-.orange {
+.orange { /*固定*/
   background: #fdc8b8;
   width: 100px;
 }
@@ -46,7 +46,7 @@
   background: #ec8f9a;
 }
 
-.green {
+.green { /*固定*/
   background: #8fdcad;
   width: 500px;
 }

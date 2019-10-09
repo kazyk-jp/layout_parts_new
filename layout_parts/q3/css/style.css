@@ -12,7 +12,6 @@
   padding: 10px 0;
 }
 
-
 .q3_table th {
   font-size: 18px;
   line-height: 26px;
@@ -25,11 +24,11 @@
   line-height: 22px;
 }
 
-.q3_table > tbody > tr:nth-child(even){
+.q3_table tbody tr:nth-child(even){
   background: #ecf1f2;
 }
 
-.q3_table > tbody > tr:last-child {
+.q3_table tbody tr:last-child {
   border-top: dashed #000 2px;
 }
 
