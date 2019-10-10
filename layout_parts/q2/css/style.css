@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
-.box {
+.mainbox {
   width: 940px;
   background: #eff3f4;
   font-size: 18px;
@@ -12,9 +12,6 @@
 
 .subbox {
   padding: 20px;
-}
-
-.subbox {
   word-break:break-all;
 }
 

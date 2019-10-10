@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
-.q1 {
+.main {
   width: 900px;
   padding: 20px;
   background: #eff3f4;
@@ -24,13 +24,11 @@
 }
 
 .subbox {
-  box-sizing: border-box;
-  width: 230px;
   background: #eaf4ff;
   padding: 20px;
   border: solid 10px #022336;
-  margin: 0 auto;
 }
+
 .clearfix::after {
   content: "";
   display: block;

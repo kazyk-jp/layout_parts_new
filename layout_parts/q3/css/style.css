@@ -7,7 +7,7 @@
   text-align: center;
 }
 
-.q3_table th, td {
+.q3_table th, .q3_table td {
   border: solid #dedede 1px;
   padding: 10px 0;
 }
@@ -24,25 +24,12 @@
   line-height: 22px;
 }
 
-.q3_table tbody tr:nth-child(even){
+.q3_table tbody tr:nth-child(even) {
   background: #ecf1f2;
 }
 
 .q3_table tbody tr:last-child {
   border-top: dashed #000 2px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* 回答はここに書いてね */

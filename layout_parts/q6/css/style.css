@@ -22,11 +22,11 @@
 /* No1 */
 
 /* No2 */
-.table {
+.table_parent {
   display: table;
 }
 
-.text2 {
+.table {
   display: table-cell;
   vertical-align: middle;
   text-align: center;
@@ -38,14 +38,13 @@
   padding: 10px;
 }
 
-
-.flex {
+.flex_parent {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.text {
+.flex {
   padding: 10px;
   background: #fff;
 }

@@ -1,11 +1,7 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
-
-/* 回答はここに書いてね */
-
-
-.q5 {
+.q5_position {
   width: 500px;
   background: #ECF1F2;
   height: 500px;
@@ -90,3 +86,5 @@
   margin: 10px;
   z-index: 9;
 }
+
+/* 回答はここに書いてね */
