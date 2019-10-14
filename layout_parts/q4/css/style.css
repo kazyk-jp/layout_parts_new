@@ -8,10 +8,11 @@
 .main {
   display: table;
   width: 100%;
+  margin-top: 20px;
 }
 
-.main:last-child {
-  margin-top: 20px;
+.main:first-child {
+  margin-top: 0;
 }
 
 .sub {
