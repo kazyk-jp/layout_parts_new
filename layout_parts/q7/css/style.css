@@ -10,14 +10,15 @@
 
 /* float */
 
-.q7--float .q7_box:first-child {
+.q7--float .q7_box {
   float: left;
-}
-
-.q7--float .q7_box:last-child {
-  float: right;
   margin-left: 50px;
 }
+
+.q7--float .q7_box:first-child {
+  margin-left: 0px;
+}
+
 .clearfix:after {
   display: block;
   content: "";
@@ -51,9 +52,10 @@
 .q7--inlineblock .q7_box {
   display: inline-block;
   vertical-align: middle;
-}
-.q7--inlineblock .q7_box:last-child {
   margin-left: 45px;
+}
+.q7--inlineblock .q7_box:first-child {
+  margin-left: 0px;
 }
 
 /* inlineblock */

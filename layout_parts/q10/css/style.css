@@ -18,13 +18,10 @@
   width: 0;
   height: 0;
   position: absolute;
-  bottom: 0;
-  left: 0;
   content: '';
 }
 
 .q10_main::before {
-  position: absolute;
   bottom: -45px;
   left: 30px;
   border-top: 20px solid #222;
@@ -32,7 +29,6 @@
 
 .q10_main::after {
   border-top: 20px solid #fff;
-  position: absolute;
   bottom: -38px;
   left: 30px;
 }
